@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KurlyAssignment</string>
+
+    <string name="app_finish">뒤로가기 버튼을 한 번 더 누르면 종료됩니다.</string>
+
+    <string name="section_product_empty">데이터가 없습니다.</string>
+    <string name="section_unknown_type">알 수 없는 섹션 타입 : %s</string>
+    <string name="product_sold_out">일시품절</string>
+</resources>
